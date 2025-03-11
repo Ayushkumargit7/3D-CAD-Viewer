@@ -4,7 +4,6 @@ This is a 3D CAD viewer application built using React, Vite, and Three.js for fr
 
 ## Prerequisites
 
-* Node.js (version 14 or higher)
 * npm (version 6 or higher)
 * Python (version 3.7 or higher) for the backend server
 
